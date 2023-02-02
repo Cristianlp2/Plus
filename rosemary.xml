@@ -2,8 +2,11 @@
 <manifest>
   <project name="windowz414/evox_device_redmi_rosemary" revision="tiramisu" path="device/redmi/rosemary" remote="github" />
   <project name="PixelExperience/kernel_redmi_rosemary" revision="thirteen" path="kernel/redmi/rosemary" remote="github" />
-  <project name="PixelExperience/vendor_mediatek-opensource"" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
+  <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
   <project name="PixelExperience/vendor_mediatek_interfaces" revision="thirteen" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
+  <project name="windowz414/vendor_redmi_rosemary-firmware" revision="eleven" path="vendor/redmi/rosemary-firmware" remote="github" />
+  <project name="PixelExperience/hardware_xiaomi" revision="thirteen" path="hardware/mediatek" remote="github" />
+  <project name="windowz414/vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="github" />
 </manifest>
