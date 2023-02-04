@@ -9,4 +9,5 @@
   <project name="windowz414/vendor_redmi_rosemary-firmware" revision="eleven" path="vendor/redmi/rosemary-firmware" remote="github" clone-depth="1" />
   <project name="PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b" revision="thirteen" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" remote="github" />
   <project name="windowz414/vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="github" />
+  <project name="PixelExperience/hardware_xiaomi" revision="thirteen" path="hardware/xiaomi" remote="github" />
 </manifest>
