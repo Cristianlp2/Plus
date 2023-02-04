@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
   <project name="windowz414/evox_device_redmi_rosemary" revision="tiramisu" path="device/redmi/rosemary" remote="github" />
-  <project name="PixelExperience/kernel_redmi_rosemary" revision="thirteen" path="kernel/redmi/rosemary" remote="github" />
+  <project name="windowz414/evox_kernel_redmi_rosemary" revision="tiramisu" path="kernel/redmi/rosemary" remote="github" />
   <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
   <project name="PixelExperience/vendor_mediatek_interfaces" revision="thirteen" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
