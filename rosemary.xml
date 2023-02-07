@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <project name="windowz414/evox_device_redmi_rosemary" revision="tiramisu" path="device/redmi/rosemary" remote="github" />
-  <project name="windowz414/evox_kernel_redmi_rosemary" revision="tiramisu" path="kernel/redmi/rosemary" remote="github" />
+  <project name="Evolution-X-Devices/device_redmi_rosemary" revision="tiramisu" path="device/redmi/rosemary" remote="github" />
+  <project name="Evolution-X-Devices/kernel_redmi_rosemary" revision="tiramisu" path="kernel/redmi/rosemary" remote="github" />
   <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
   <project name="PixelExperience/vendor_mediatek_interfaces" revision="thirteen" path="vendor/mediatek/interfaces" remote="github" />
   <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
   <project name="windowz414/vendor_redmi_rosemary-firmware" revision="eleven" path="vendor/redmi/rosemary-firmware" remote="github" clone-depth="1" />
   <project name="PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b" revision="thirteen" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" remote="github" />
-  <project name="windowz414/vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="github" />
+  <project name="Evolution-X-Devices/vendor_redmi_rosemary" revision="thirteen" path="vendor/redmi/rosemary" remote="github" />
   <project name="PixelExperience/hardware_xiaomi" revision="thirteen" path="hardware/xiaomi" remote="github" />
 </manifest>
