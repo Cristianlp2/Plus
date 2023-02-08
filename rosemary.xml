@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Evolution-X-Devices/device_redmi_rosemary" revision="tiramisu" path="device/redmi/rosemary" remote="github" />
-  <project name="Evolution-X-Devices/kernel_redmi_rosemary" revision="tiramisu" path="kernel/redmi/rosemary" remote="github" />
-  <project name="PixelExperience/vendor_mediatek-opensource" revision="thirteen" path="vendor/mediatek/opensource" remote="github" />
-  <project name="PixelExperience/vendor_mediatek_interfaces" revision="thirteen" path="vendor/mediatek/interfaces" remote="github" />
-  <project name="PixelExperience/device_mediatek_common" revision="thirteen" path="device/mediatek/common" remote="github" />
-  <project name="PixelExperience/device_mediatek_sepolicy_vndr" revision="thirteen" path="device/mediatek/sepolicy_vndr" remote="github" />
-  <project name="PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b" revision="thirteen" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" remote="github" />
-  <project name="Evolution-X-Devices/vendor_redmi_rosemary" revision="tiramisu" path="vendor/redmi/rosemary" remote="github" />
-  <project name="Evolution-X/hardware_xiaomi" revision="tiramisu" path="hardware/xiaomi" remote="github" />
+  <project name="device_redmi_rosemary" path="device/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
+  <project name="kernel_redmi_rosemary" path="kernel/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
+  <project name="vendor_redmi_rosemary" path="vendor/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
+  <project name="PixelExperience/vendor_mediatek-opensource" path="vendor/mediatek/opensource" remote="github" revision="thirteen" />
+  <project name="PixelExperience/vendor_mediatek_interfaces" path="vendor/mediatek/interfaces" remote="github" revision="thirteen" />
+  <project name="PixelExperience/device_mediatek_common" path="device/mediatek/common" remote="github" revision="thirteen" />
+  <project name="PixelExperience/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="thirteen" />
+  <project name="PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" remote="github" revision="thirteen" />
+  <project name="ProjectKasumi/vendor_gcgop" path="vendor/gcgop" remote="github" revision="kasumi-v2" />
 </manifest>
