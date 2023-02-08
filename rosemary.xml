@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="device_redmi_rosemary" path="device/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
-  <project name="kernel_redmi_rosemary" path="kernel/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
+  <project name="Evolution-X-Devices/device_redmi_rosemary" path="device/redmi/rosemary" remote="github" revision="tiramisu" />
+  <project name="Evolution-X-Devices/kernel_redmi_rosemary" path="kernel/redmi/rosemary" remote="github" revision="tiramisu" />
   <project name="vendor_redmi_rosemary" path="vendor/redmi/rosemary" remote="evo-devices" revision="tiramisu" />
   <project name="PixelExperience/vendor_mediatek-opensource" path="vendor/mediatek/opensource" remote="github" revision="thirteen" />
   <project name="PixelExperience/vendor_mediatek_interfaces" path="vendor/mediatek/interfaces" remote="github" revision="thirteen" />
