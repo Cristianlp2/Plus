@@ -9,4 +9,5 @@
   <project name="PixelExperience/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="thirteen" />
   <project name="PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b" path="prebuilts/clang/kernel/linux-x86/clang-r416183b" remote="github" revision="thirteen" />
   <project name="ProjectKasumi/vendor_gcgop" path="vendor/gcgop" remote="github" revision="kasumi-v2" />
+  <project name="Cristianlp2/vendor_redmi_rosemary" path="vendor/redmi/rosemary-firmware" remote="github" revision="thirteen" />
 </manifest>
